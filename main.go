@@ -7,7 +7,7 @@ import (
 )
 
 func main() {
-	fmt.Println("Example file")
+	fmt.Println("Example file dev branch")
 	fmt.Println("Press any key for update")
 	bufio.NewReader(os.Stdin).ReadByte()
 	fmt.Println("Success!")
